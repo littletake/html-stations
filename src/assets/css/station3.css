@@ -1,7 +1,3 @@
-body {
-    background: #fff;
-}
-
 .card__title {
     color: #282828;
     size: 14px;
@@ -15,9 +11,10 @@ body {
 .card__img-top {
     width: 288px;
     height: 182px;
-    margin-bottom: auto;
+    margin-bottom: 2px;
 }
 
 .card {
-    padding: auto;
+    background-color: #fff;
+    padding: 2px;
 }
